@@ -34,7 +34,7 @@
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| ![snake gif](https://github.com/Facatura/Facatura/blob/output/github-contribution-grid-snake.svg)| 
+| ![snake gif](https://github.com/Facatura/Facatura/blob/output/github-contribution-grid-snake.svg) |
 
 
 
