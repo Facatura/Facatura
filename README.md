@@ -1,8 +1,4 @@
-<div align="center">
 
-<a href="https://github.com/Facatura">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/Facatura?label=Follow&style=social)](https://github.com/Facatura)
 [![GitHub Stars](https://img.shields.io/github/stars/Facatura?style=social)](https://github.com/CtorW)
