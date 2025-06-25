@@ -2,11 +2,6 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Zadquiel%20Gallardo%20(FacaturaDev)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
-
-
-
-[![GitHub Followers](https://img.shields.io/github/followers/Facatura?label=Follow&style=social)](https://github.com/Facatura)
-[![GitHub Stars](https://img.shields.io/github/stars/Facatura?style=social)](https://github.com/CtorW)
 </div>
 
 ## Learning 🌱
@@ -90,8 +85,8 @@ Pensando en nuevos proyectos y buscando mi primera oportunidad laboral en el cam
 
 <div align="center">
 
-
-[![](https://visitcount.itsvg.in/api?id=Facatura&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![GitHub Followers](https://img.shields.io/github/followers/Facatura?label=Follow&style=social)](https://github.com/Facatura)
+[![GitHub Stars](https://img.shields.io/github/stars/Facatura?style=social)](https://github.com/CtorW)
 
 </div>
 
