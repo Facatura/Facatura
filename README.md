@@ -1,13 +1,20 @@
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Zadquiel%20Gallardo%20(FacaturaDev)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/Facatura?label=Follow&style=social)](https://github.com/Facatura)
 [![GitHub Stars](https://img.shields.io/github/stars/Facatura?style=social)](https://github.com/CtorW)
 </div>
 
+## Learning 🌱
+Aprendiendo cpp, mejorando mis bases en JavaScript, Java, SQL, desarrollandome en linux y probando software. <br>
+## Objectives 🤓
+Pensando en nuevos proyectos y buscando mi primera oportunidad laboral en el campo IT
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
-
-💻 Passionately building an **Arch Installer** project. 
+💻 Concentrando en la facultad y en mi **API**!
 
 
 <div align="Center">
@@ -40,29 +47,59 @@
 
 <div align="Center">
 
-| Facatra's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![Facatura's Stats](https://github-readme-stats.vercel.app/api?username=Facatura&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Facatura&theme=onedark&hide_border=true) 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-| Most Lang |
-| ----------|
-| ![Facatura's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Facatura&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+<!--- stats & Trophy (start) -->
 
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Facatura&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Facatura&theme=dark&hide_border=false" /> 
+</td>
+
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Facatura&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+<br>
+</div>
+<!--- trophy (start) -->
+
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Facatura&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
+
+<br>
+
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=Facatura&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
-<br>
-<br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="Center">
+-----------
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto: gallardojuanbautista010@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/juan_b.g"> <img src="https://skillicons.dev/icons?i=instagram"/> </a>  |
+Credit: [ElioChiu](https://github.com/ElioChiu)
 
-</div>
-
-------
-
-Credit: [Facatura](https://github.com/Facatura)
-Last Edited on: 24/06/2025
+Last Edited on: 10/7/2023
