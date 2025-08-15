@@ -5,11 +5,11 @@
 </div>
 
 ## Learning 🌱
-Aprendiendo cpp, mejorando mis bases en JavaScript, Java, SQL, desarrollandome en linux y probando software. <br>
+Aprendiendo cpp, mejorando mis bases en JavaScript, Java, SQL, desarrollando mi entorno en linux y siempre probando software. <br>
 ## Objectives 🤓
 Pensando en nuevos proyectos y buscando mi primera oportunidad laboral en el campo IT
 
-💻 Concentrando en la facultad y en mi **API**!
+💻 Concentrando en la facultad e iniciandome en python!
 
 
 <div align="Center">
@@ -20,7 +20,7 @@ Pensando en nuevos proyectos y buscando mi primera oportunidad laboral en el cam
 
 | Website | Programming | Backend |
 | ------------- | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=vscode,cpp,java,github,arduino"/> | <img src="https://skillicons.dev/icons?i=bash,php,mysql"/>
+| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=cpp,java,arduino"/> | <img src="https://skillicons.dev/icons?i=bash,php,mysql"/>
 
 </div>
 
