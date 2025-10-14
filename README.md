@@ -18,16 +18,9 @@ Pensando en nuevos proyectos y buscando mi primera oportunidad laboral en el cam
 
 <div align="Center">
 
-| Website | Programming | Backend |
+| Website | Programming | Backend | Technologies
 | ------------- | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=cpp,java,arduino"/> | <img src="https://skillicons.dev/icons?i=bash,php,mysql"/>
-
-</div>
-
-<div align="Center">
-<h1>Operating Systems and distributions</h1>
-
-<img src="https://skillicons.dev/icons?i=windows,linux,manjaro"/>
+| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=cpp,java,arduino"/> | <img src="https://skillicons.dev/icons?i=mysql, java"/> | <img src="https://skillicons.dev/icons?i=linux,bash"/> |
 
 </div>
 
