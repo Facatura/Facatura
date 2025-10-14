@@ -25,9 +25,9 @@ Pensando en nuevos proyectos y buscando mi primera oportunidad laboral en el cam
 </div>
 
 <div align="Center">
-<h1>Operating Systems</h1>
+<h1>Operating Systems and distributions</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,manjaro"/>
 
 </div>
 
