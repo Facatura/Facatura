@@ -5,11 +5,17 @@
 </div>
 
 ## Learning 🌱
-Aprendiendo cpp, mejorando mis bases en JavaScript, Java, SQL, desarrollando mi entorno en linux y siempre probando software. <br>
-## Objectives 🤓
-Pensando en nuevos proyectos y buscando mi primera oportunidad laboral en el campo IT
+Aprendiendo C++ y Python, desarrollando mi entorno en Manjaro Linux y siempre probando software. 🙂 <br>
 
-💻 Concentrando en la facultad e iniciandome en python!
+## Projects 🤓
+Desarrollé una API REST con java usando tomcat, arrancando un servidor web y usando MySQL para el manejo de la DB a traves de los json que proporcione con mi API usando PostMan. 
+Varios trabajos para mi institucion utilizando html, css y js para un sistema de gestion de una libreria, desarrollando juegos basicos como ta-te-ti y haciendo paginas personales a modo de practica.
+👨‍🎓 Este año armé y asesoré con mi equipo una pagina de tiendaNube para un emprendimiento de ropa, y también hicimos algo similar para una panaderia usando WordPress en un curso de 2024.
+
+## Objectives 📅
+Ayudar emprendimientos, mejorando mis bases, desarrollando de forma limpia y autocrítica, apuntando a lo alto y buscando mi primera oportunidad laboral en el campo IT
+
+💻 Concentrando en la facultad con mi programa en C++!
 
 
 <div align="Center">
