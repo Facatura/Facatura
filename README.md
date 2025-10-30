@@ -13,7 +13,7 @@ Varios trabajos para mi institucion utilizando html, css y js para un sistema de
 👨‍🎓 Este año armé y asesoré con mi equipo una pagina de tiendaNube para un emprendimiento de ropa, y también hicimos algo similar para una panaderia usando WordPress en un curso de 2024. <br>
 
 ## Objectives 📅
-Ayudar emprendimientos, mejorando mis bases, desarrollando de forma limpia y autocrítica, apuntando a lo alto y buscando mi primera oportunidad laboral en el campo IT
+Ayudar emprendimientos, mejorar mis bases, desarrollar de forma limpia y autocrítica, apuntar a lo alto y encontrar mi primera oportunidad laboral en el campo IT
 
 💻 Concentrando en la facultad con mi programa en C++!
 
