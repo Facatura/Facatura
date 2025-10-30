@@ -8,14 +8,14 @@
 Aprendiendo C++ y Python, desarrollando mi entorno en Manjaro Linux y siempre probando software. 🙂 <br>
 
 ## Projects 🤓
-Desarrollé una API REST con java usando tomcat, arrancando un servidor web y usando MySQL para el manejo de la DB a traves de los json que proporcione con mi API usando PostMan. <br> <br>
-Varios trabajos para mi institucion utilizando html, css y js para un sistema de gestion de una libreria, desarrollando juegos basicos como ta-te-ti y haciendo paginas personales a modo de practica. <br> <br>
-👨‍🎓 Este año armé y asesoré con mi equipo una pagina de tiendaNube para un emprendimiento de ropa, y también hicimos algo similar para una panaderia usando WordPress en un curso de 2024. <br>
+Desarrollé una API REST con JAVA, usando TOMCAT para arrancar un servidor web y MySQL para el manejo de la DB mediante los json que proporcioné con mi API usando PostMan, y por último para mostrar todo usé HTML y CSS. <br> <br>
+Varios trabajos para mi institución utilizando HTML, CSS y JAVASCRIPT para un sistema de gestion de una libreria, desarrollando juegos básicos cómo ta-te-ti y haciendo paginas personales a modo de práctica. <br> <br>
+👨‍🎓 Este año armé y asesoré con mi equipo una pagina de TiendaNube para un emprendimiento de ropa, y también hicimos algo similar para una panaderia usando WordPress en un curso de 2024. <br>
 
 ## Objectives 📅
 Ayudar emprendimientos, mejorar mis bases, desarrollar de forma limpia y autocrítica, apuntar a lo alto y encontrar mi primera oportunidad laboral en el campo IT
 
-💻 Concentrando en la facultad con mi programa en C++!
+💻 Concentrado en la facultad con mi programa en C++!
 
 
 <div align="Center">
