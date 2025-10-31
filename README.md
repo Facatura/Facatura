@@ -84,7 +84,7 @@ Ayudar emprendimientos, mejorar mis bases, desarrollar de forma limpia y autocr√
 <div align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/Facatura?label=Follow&style=social)](https://github.com/Facatura)
-[![GitHub Stars](https://img.shields.io/github/stars/Facatura?style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/Facatura?style=social)](https://github.com/Facatura)
 
 </div>
 
