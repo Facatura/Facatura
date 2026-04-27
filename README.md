@@ -23,7 +23,7 @@ Documentar mi crecimiento para aprender de mi trayecto y poder mostrar al mundo 
 
 | Frontend | Backend | Programming | Technologies
 | ------------- | ------------- | ------------- | ------------- 
-| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=mysql,java"/> | <img src="https://skillicons.dev/icons?i=cpp,java,python"/> | <img src="https://skillicons.dev/icons?i=linux,bash"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react"/> | <img src="https://skillicons.dev/icons?i=mysql,java"/> | <img src="https://skillicons.dev/icons?i=cpp,java,react"/> | <img src="https://skillicons.dev/icons?i=linux,bash"/> |
 
 </div>
 <br>
