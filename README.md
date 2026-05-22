@@ -5,7 +5,7 @@
 </div>
 
 ## Learning 🌱
-Aprendiendo JSX y C#, documentando mi aprendizaje y siempre probando software. 🙂 <br>
+Aprendiendo Python y C#, documentando mi aprendizaje y siempre probando software. 🙂 <br>
 
 ## Projects 🤓
 Desarrollo de una API REST con JAVA, usando TOMCAT para arrancar un servidor web y MySQL, manejo de la DB mediante los json que proporciona mi API usando PostMan, y el front con HTML, CSS y JS. <br> <br>
